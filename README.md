@@ -104,7 +104,7 @@ These results suggest that while simpler models like Linear Regression can provi
 
 ## Conclusion
 
-The project demonstrates the power of PySpark for large-scale data processing and machine learning. Ensemble methods were found to be more effective for this regression task compared to simpler models.
+The project demonstrates the power of PySpark for large-scale data processing and machine learning. ensemble methods can offer additional robustness against overfitting and non-linear relationships, albeit sometimes at the cost of slightly higher prediction errors.
 
 ## References
 - [PySpark Documentation](https://spark.apache.org/docs/latest/api/python/)
